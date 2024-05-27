@@ -11,6 +11,7 @@
 }
 .container{
     height: 50vh;
+    overflow: hidden;
 }
 .green {
     color: blue;
