@@ -23,6 +23,7 @@ h2{
     display: flex;
     /* flex-wrap: wrap; */
     flex-direction: column;
+    justify-content: center;
 }
 .container{
     height: 50vh;
