@@ -25,7 +25,8 @@ h2{
     /* flex-direction: column;
     justify-content: center;
     align-items: center; */
-    background-image: linear-gradient(to bottom red blue);
+    background-color: aqua;
+    /* background-image: linear-gradient(to right red blue); */
 }
 .container{
     height: 50vh;
