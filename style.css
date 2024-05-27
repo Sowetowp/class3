@@ -17,3 +17,6 @@ h1 {
 .myImage{
     width: 30px;
 }
+tr , th, td{
+    border: solid 1px ;
+}
