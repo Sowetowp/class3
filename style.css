@@ -20,11 +20,11 @@ h2{
     background-color: blueviolet;
 }
 .container{
-    display: flex;
+    /* display: flex; */
     /* flex-wrap: wrap; */
-    flex-direction: column;
+    /* flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
 }
 .container{
     height: 50vh;
