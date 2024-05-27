@@ -9,7 +9,7 @@ html{
 .container #green {
     background-color: pink;
     width: 100%;
-    
+    border-radius: 30px;
     height: 6rem;
 }
 .container{
