@@ -14,7 +14,8 @@ html{
 }
 h2{
     /* margin: 5rem; */
-    text-align: center;
+    /* text-align: center; */
+    margin: auto;
     background-color: blueviolet;
 }
 .container{
