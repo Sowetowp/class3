@@ -18,5 +18,5 @@ h1 {
     width: 30px;
 }
 tr , th, td{
-    border: solid 1px ;
+    border: solid 1px red;
 }
