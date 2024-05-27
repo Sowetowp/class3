@@ -11,7 +11,7 @@
 }
 .container{
     height: 50vh;
-    overflow: hidden;
+    overflow: scroll;
 }
 .green {
     color: blue;
