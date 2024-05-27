@@ -20,6 +20,9 @@ h2{
     background-color: blueviolet;
 }
 .container{
+    display: flex;
+}
+.container{
     height: 50vh;
     font-size: 50px;
 }
