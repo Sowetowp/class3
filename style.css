@@ -5,7 +5,7 @@
 }
 
 .container #green {
-    color: brown;
+    color: transparent !important;
     background-color: pink;
     width: 100%;
     height: 100%;
