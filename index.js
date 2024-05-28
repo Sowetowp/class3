@@ -1,1 +1,2 @@
-const [[1,2] [12,33]]
+const r = [[1,2] [12,33]]
+console.log(r)
